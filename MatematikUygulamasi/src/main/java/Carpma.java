@@ -13,8 +13,8 @@ public class Carpma {
         say1 = input.nextInt();
         System.out.println("2. Sayýyý Giriniz: ");
         say2 = input.nextInt();
-        int carp=say1*say2;
-        System.out.println(say1 + "*" + say2 + "=" + carp);
+        int sonuc=say1*say2;
+        System.out.println(say1 + "*" + say2 + "=" + sonuc);
         
         
     }
