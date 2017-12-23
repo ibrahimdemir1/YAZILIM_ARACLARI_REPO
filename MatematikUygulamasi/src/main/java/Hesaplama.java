@@ -1,7 +1,6 @@
 /**
  * Hesaplama Islemlerinden sorumlu sinif
  * 
- * @author Ozkan Sari
  *
  */
 public class Hesaplama {
